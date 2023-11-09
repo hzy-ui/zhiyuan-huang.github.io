@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "About Life"
+    url: /Life/
+
   - title: "Research Experience"
     url: /Research_Experience/
 
@@ -15,8 +18,9 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "About Life"
-    url: /cv/
+
+  - title: "Music"
+    url: /Music/
     
   - title: "Guide"
     url: /markdown/
