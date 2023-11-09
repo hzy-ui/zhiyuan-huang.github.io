@@ -1,6 +1,6 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
+permalink: /Music/
+title: "My music journey"
 modified: 2016-06-06
 ---
 
