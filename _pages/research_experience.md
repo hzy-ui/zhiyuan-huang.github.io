@@ -7,10 +7,9 @@ author_profile: true
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+I got my bachelor's degree majoring in Automation at Qingdao University in Qingdao, China; 
+Currently, I am a third-year master's student majoring in Control Science and Engineering at Xiamen University in Xiamen, China and I am expected to graduate in 2024; 
+Meanwhile, I am looking for a Ph.D. position worldwide.
 
   
 Skills
