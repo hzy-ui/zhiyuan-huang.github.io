@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "research_experience"
+title: "Research Experience"
 permalink: /Research_Experience/
 author_profile: true
 ---
