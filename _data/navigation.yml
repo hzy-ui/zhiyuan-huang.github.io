@@ -5,6 +5,13 @@ main:
 
   - title: "Research Experience"
     url: /Research_Experience/
+    
+  - title: "Music"
+    url: /Music/
+    
+  - title: "Guide"
+    url: /markdown/
+  
 
   # - title: "Talks"
   #   url: /talks/    
@@ -18,9 +25,3 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-
-  - title: "Music"
-    url: /Music/
-    
-  - title: "Guide"
-    url: /markdown/
