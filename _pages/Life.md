@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "A"
-permalink: /cv/
+title: "About my life"
+permalink: /Life/
 author_profile: true
 redirect_from:
   - /resume
