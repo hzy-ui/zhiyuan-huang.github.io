@@ -24,6 +24,7 @@ We have designed an elevator climbing robot specifically aimed at detecting the 
 Additionally, we have developed effective methods for detecting misalignments using the robot.
 
 ### Acknowledgement
-I would like to express my sincere gratitude to the supervisors and collaborators during my time at IFF.  
-In particular, I would like to extend my special thanks to Dr.[Alireza Nemati](https://www.linkedin.com/in/alireza-nemati-8116b390/), Prof. [Yinhua Liu](https://ieeexplore.ieee.org/author/37088988810), Prof. [Dongjie zhao](https://iff.qdu.edu.cn/info/1046/1082.htm), and Prof. [Wanyue Jiang](https://iff.qdu.edu.cn/info/1046/1081.htm).
+I would like to express my sincere gratitude to the supervisors and collaborators during my time at the IFF. In particular, I would like to extend my special thanks to Dr. [Alireza Nemati](https://www.linkedin.com/in/alireza-nemati-8116b390/), Prof. [Yinhua Liu](https://ieeexplore.ieee.org/author/37088988810), Prof. [Dongjie zhao](https://iff.qdu.edu.cn/info/1046/1082.htm), and Prof. [Wanyue Jiang](https://iff.qdu.edu.cn/info/1046/1081.htm). 
+
+I also want to thanks the professor from the school of Automation, especially Prof. Jihui Zhang, Prof. Lin Zhao, Prof. Zhijian Ji, Prof. Zhongsheng Hou for helping me from bachelor till now.
 
