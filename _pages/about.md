@@ -19,5 +19,5 @@ In September 2024, I am expected to begin my Ph.D. studies in Applied Mathematic
 
 Research Interest
 ======
-Formal methods; Control theory; Machine Learning.
+Formal methods; Control theory; Machine learning.
 

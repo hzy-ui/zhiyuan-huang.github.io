@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 ## At Xiamen University (From 2021 to now)
-Constructing...
+### * A Formal Control Framework of Autonomous Vehicle for Signal Temporal Logic Tasks and Obstacle Avoidance
 
+### * Online-tuning Control Barrier Function Approach for Signal Temporal Logic Tasks and Unknown Obstacle Avoidance
+
+### * -----
 
 
 ## At Qingdao University (From 2018 to 2021)
