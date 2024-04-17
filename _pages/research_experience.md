@@ -19,13 +19,13 @@ Overall, those unique experiences ignited my enthusiasm for scientific research.
 To address the factory's cloth transportation needs, we successfully developed autonomous guided vehicles (AGVs) that efficiently transported materials to different stations. 
 My primary responsibility in this project was to develop and debug the control algorithm based on sensing data, ensuring the smooth operation of the AGVs along a magnetic track.
 
-<img src="images/Research Experience/AGV.jpg" alt="This is an alt text." style="width:500px;height:300px;">
+<img src="../images/Research Experience/AGV.jpg" alt="This is an alt text." style="width:500px;height:300px;">
 
 ### Project 2
 We have designed an elevator climbing robot specifically aimed at detecting the misalignment of the guiderail. 
 Additionally, we have developed effective methods for detecting misalignments using the robot.
 
-<img src="images/Research Experience/Elevator climbing.jpg" alt="This is an alt text." style="width:500px;height:300px;">
+<img src="../images/Research Experience/Elevator climbing.jpg" alt="This is an alt text." style="width:500px;height:300px;">
 
 ### Acknowledgement
 I would like to express my sincere gratitude to the supervisors and collaborators during my time at the IFF. In particular, I would like to extend my special thanks to Dr. [Alireza Nemati](https://www.linkedin.com/in/alireza-nemati-8116b390/), Prof. [Yinhua Liu](https://ieeexplore.ieee.org/author/37088988810), Prof. [Dongjie zhao](https://iff.qdu.edu.cn/info/1046/1082.htm), and Prof. [Wanyue Jiang](https://iff.qdu.edu.cn/info/1046/1081.htm). 
