@@ -1,10 +1,12 @@
 # main links links
 main:
-  - title: "About Life"
-    url: /Life/
+
 
   - title: "Research Experience"
     url: /Research_Experience/
+
+  - title: "About Life"
+    url: /Life/  
     
   - title: "Music"
     url: /Music/

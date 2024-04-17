@@ -83,7 +83,7 @@ author:
   name             : "Zhiyuan Huang"
   avatar           : "profile.png"
   bio              : "Third-year master student at Xiamen University"
-  location         : "Xiamen"
+  location         : "Xiamen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xDgjHIwAAAAJ&hl=en"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  Bilibili         : "https://space.bilibili.com/323265389?spm_id_from=333.1007.0.0"
 
 
 # Reading Files
