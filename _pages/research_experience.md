@@ -32,6 +32,7 @@ My primary responsibility in this project was to develop and debug the control a
 ### * Project 2
 We have designed an elevator climbing robot specifically aimed at detecting the misalignment of the guiderail. 
 Additionally, we have developed effective methods for detecting misalignments using the robot.
+
 我们自主研发并改进了一种电梯导轨爬行机器人，基于此机器人，我们研发了一种电梯导轨质量检测方法。
 
 <img src="../images/Research Experience/Elevator climbing.jpg" alt="This is an alt text." style="width:500px;height:200px;">
@@ -62,6 +63,10 @@ The system is composed of the microcontroller core, smoke detection module, huma
 I am the leader of the desinger team and in responsible for hardware system debugging and software C coding.
 
 <img src="../images/Research Experience/microcontroller.jpg" alt="This is an alt text." style="width:700px;height:300px;">
+
+For details:
+
+[Download file](../files/stc89s52.pdf)
 
 ### Acknowledgement
 I would like to express my sincere gratitude to the supervisors and collaborators during my time at the IFF. In particular, I would like to extend my special thanks to Dr. [Alireza Nemati](https://www.linkedin.com/in/alireza-nemati-8116b390/), Prof. [Yinhua Liu](https://ieeexplore.ieee.org/author/37088988810), Prof. [Dongjie zhao](https://iff.qdu.edu.cn/info/1046/1082.htm), and Prof. [Wanyue Jiang](https://iff.qdu.edu.cn/info/1046/1081.htm). 
