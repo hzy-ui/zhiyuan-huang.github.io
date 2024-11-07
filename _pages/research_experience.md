@@ -18,6 +18,7 @@ During my undergraduate studies, I had the privilege of working and collaboratin
 Moreover, the lab's advanced equipment, including robotic arms, 3D printers, AR/VR systems, drones, and SLAM robots, provided me with a remarkable opportunity for interdisciplinary learning. 
 Those invaluable experiences allowed me to delve into the realms of robot control and machine learning, significantly enhancing my programming and English communication skills. 
 Overall, those unique experiences ignited my enthusiasm for scientific research.
+
 <details>
 <summary> ### * Project 1 </summary>
 To address the factory's cloth transportation needs, we successfully developed autonomous guided vehicles (AGVs) that efficiently transported materials to different stations. 
