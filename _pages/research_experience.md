@@ -18,8 +18,8 @@ During my undergraduate studies, I had the privilege of working and collaboratin
 Moreover, the lab's advanced equipment, including robotic arms, 3D printers, AR/VR systems, drones, and SLAM robots, provided me with a remarkable opportunity for interdisciplinary learning. 
 Those invaluable experiences allowed me to delve into the realms of robot control and machine learning, significantly enhancing my programming and English communication skills. 
 Overall, those unique experiences ignited my enthusiasm for scientific research.
-### * Project 1
-<details> <summary>
+<details>
+<summary> ### * Project 1
 To address the factory's cloth transportation needs, we successfully developed autonomous guided vehicles (AGVs) that efficiently transported materials to different stations. 
 My primary responsibility in this project was to develop and debug the control algorithm based on sensing data, ensuring the smooth operation of the AGVs along a magnetic track.
 
@@ -27,7 +27,8 @@ My primary responsibility in this project was to develop and debug the control a
 我主要负责基Aduino的PID算法的编写和小车的调试，最终实现小车沿磁轨的高效稳定运行。
 
 <img src="../images/Research Experience/AGV.jpg" alt="This is an alt text." style="width:500px;height:300px;">
-<summary>
+</details>
+
 ### * Project 2
 We have designed an elevator climbing robot specifically aimed at detecting the misalignment of the guiderail. 
 Additionally, we have developed effective methods for detecting misalignments using the robot.
