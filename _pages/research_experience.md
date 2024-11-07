@@ -11,6 +11,13 @@ This research topic revolves around the development of a controller framework fo
 
 For more details, please refer to the published paper by clicking this [link](https://ieeexplore.ieee.org/abstract/document/10144389). 
 
+<details>
+  <summary>点击展开折叠内容</summary>
+
+  这里是可以折叠的内容，可以包含多行文字、列表、图片等。
+
+</details>
+
 ### * Online-tuning Control Barrier Function Approach for Signal Temporal Logic Tasks and Unknown Obstacle Avoidance
 This research topic centers around the development of a CBF online parameter tuning method. 
 The primary objective of this work is to construct an online control barrier function that improves system performance in the presence of unknown environments, system inaccuracies, or delays, with the aim of achieving STL tasks. 
