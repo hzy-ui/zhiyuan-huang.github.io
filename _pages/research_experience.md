@@ -19,7 +19,7 @@ Moreover, the lab's advanced equipment, including robotic arms, 3D printers, AR/
 Those invaluable experiences allowed me to delve into the realms of robot control and machine learning, significantly enhancing my programming and English communication skills. 
 Overall, those unique experiences ignited my enthusiasm for scientific research.
 <details>
-<summary> ### * Project 1
+<summary> ### * Project 1 </summary>
 To address the factory's cloth transportation needs, we successfully developed autonomous guided vehicles (AGVs) that efficiently transported materials to different stations. 
 My primary responsibility in this project was to develop and debug the control algorithm based on sensing data, ensuring the smooth operation of the AGVs along a magnetic track.
 
