@@ -23,7 +23,7 @@ To address the factory's cloth transportation needs, we successfully developed a
 My primary responsibility in this project was to develop and debug the control algorithm based on sensing data, ensuring the smooth operation of the AGVs along a magnetic track.
 
 为解决服装厂运送物料的需求，我们自主研发了一种自主无人运货小车（AGV），其能够实现不同输送点的物料有效运输。
-我主要负责PID算法的编写和小车的调试，最终实现小车沿磁轨的高效稳定运行。
+我主要负责基Aduino的PID算法的编写和小车的调试，最终实现小车沿磁轨的高效稳定运行。
 
 <img src="../images/Research Experience/AGV.jpg" alt="This is an alt text." style="width:500px;height:300px;">
 
