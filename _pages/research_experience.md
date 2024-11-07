@@ -56,7 +56,10 @@ For details:
 阿里纳玛提, 赵东杰, 葛树志, **黄致远**, 法里纳兹·戈拉米.	一种旋转激光雷达及室内地图构建和定位的SLAM机器人.申请公布号：CN111251271B.
 
 ### * Project 4
-
+Based on the STC89S52 microcontroller, we design a dormitory smart anti-theft and fire alarm system by integrating microcontroller and sensor technologies.
+The system achieves alarm functionality by detecting indoor smoke levels and human presence signals, continuously recording entries and exits, and providing a door lock reminder when no one is inside. 
+The system is composed of the microcontroller core, smoke detection module, human presence detection module, LCD display module, alarm indicator module, and counter module. Through microcontroller control, each module is effectively integrated to achieve the intended functionality. 
+I am the leader of the desinger team and in responsible for hardware system debugging and software coding.
 
 
 ### Acknowledgement
