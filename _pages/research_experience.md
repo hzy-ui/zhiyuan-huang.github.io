@@ -19,6 +19,7 @@ Moreover, the lab's advanced equipment, including robotic arms, 3D printers, AR/
 Those invaluable experiences allowed me to delve into the realms of robot control and machine learning, significantly enhancing my programming and English communication skills. 
 Overall, those unique experiences ignited my enthusiasm for scientific research.
 ### * Project 1
+<details> <summary>
 To address the factory's cloth transportation needs, we successfully developed autonomous guided vehicles (AGVs) that efficiently transported materials to different stations. 
 My primary responsibility in this project was to develop and debug the control algorithm based on sensing data, ensuring the smooth operation of the AGVs along a magnetic track.
 
@@ -26,7 +27,7 @@ My primary responsibility in this project was to develop and debug the control a
 我主要负责基Aduino的PID算法的编写和小车的调试，最终实现小车沿磁轨的高效稳定运行。
 
 <img src="../images/Research Experience/AGV.jpg" alt="This is an alt text." style="width:500px;height:300px;">
-
+<summary>
 ### * Project 2
 We have designed an elevator climbing robot specifically aimed at detecting the misalignment of the guiderail. 
 Additionally, we have developed effective methods for detecting misalignments using the robot.
@@ -52,6 +53,9 @@ For details:
 [1] A. Nemati, D. Zhao, S. S. Ge, **Z. Huang**, and F. Gholami, “[A SLAM robot with rotating Lidar for indoor mapping and localization](https://patents.google.com/patent/CN111251271B/zh?oq=CN111251271B),” China Patent, CN111251271B.
 
 阿里纳玛提, 赵东杰, 葛树志, **黄致远**, 法里纳兹·戈拉米.	一种旋转激光雷达及室内地图构建和定位的SLAM机器人.申请公布号：CN111251271B.
+
+### * Project 4
+
 
 ### Acknowledgement
 I would like to express my sincere gratitude to the supervisors and collaborators during my time at the IFF. In particular, I would like to extend my special thanks to Dr. [Alireza Nemati](https://www.linkedin.com/in/alireza-nemati-8116b390/), Prof. [Yinhua Liu](https://ieeexplore.ieee.org/author/37088988810), Prof. [Dongjie zhao](https://iff.qdu.edu.cn/info/1046/1082.htm), and Prof. [Wanyue Jiang](https://iff.qdu.edu.cn/info/1046/1081.htm). 
