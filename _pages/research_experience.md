@@ -8,16 +8,19 @@ author_profile: true
 ## At Xiamen University (From 2021 to now)
 
 ### * A Formal Control Framework of Autonomous Vehicle for Signal Temporal Logic Tasks and Obstacle Avoidance
+<details>
 This research topic revolves around the development of a controller framework for signal temporal logic (STL) tasks incorporating obstacle avoidance. In this study, we successfully formulated and addressed a motion planning problem that encompasses both STL goal-reaching and obstacle avoidance objectives. We achieved this by integrating control barrier function (CBF) and artificial potential field methods. 
 
 For more details, please refer to the published paper by clicking this [link](https://ieeexplore.ieee.org/abstract/document/10144389). 
+</details>
 
-<details>
+
+<!-- <details>
   <summary><span style="font-size:18px;"><b>点击展开折叠内容</b></span></summary>
 
   这里是可以折叠的内容，可以包含多行文字、列表、图片等。
 
-</details>
+</details> -->
 
 ### * Online-tuning Control Barrier Function Approach for Signal Temporal Logic Tasks and Unknown Obstacle Avoidance
 This research topic centers around the development of a CBF online parameter tuning method. 
