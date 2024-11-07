@@ -36,17 +36,22 @@ Additionally, we have developed effective methods for detecting misalignments us
 
 For details:
 
-[1] A. Nemati, D. Zhao, S. S. Ge, Z. Huang, and F. Gholami, “A SLAM robot with rotating Lidar for indoor mapping and localization,” China Patent, CN111251271B.
+[1] A. Nemati, D. Zhao, S. S. Ge, **Z. Huang**, and F. Gholami, “[An elevator guide rail quality detection device and method](https://patents.google.com/patent/CN111170121A/zh?oq=CN111170121A),” China Patent, CN111170121A.
 
- 阿里纳玛提, 赵东杰, 葛树志, 黄致远, 法里纳兹·戈拉米.	一种旋转激光雷达及室内地图构建和定位的SLAM机器人.申请公布号：CN111251271A.
+ 阿里纳玛提, 赵东杰, 葛树志, **黄致远**, 法里纳兹·戈拉米.	一种电梯导轨质量检测装置和方法.申请公布号：CN111170121A.
 
-[2] A. Nemati, D. Zhao, S. S. Ge, Z. Huang, and F. Gholami, “An elevator guide rail quality detection device and method,” China Patent, CN111170121A.
+[2] A. Nemati, D. Zhao, C. Sun, F. Gholami, **Z. Huang**, and Z. Gong, “[A device and method for detecting the distortion of single elevator guide rail](https://patents.google.com/patent/CN114018172A/zh?oq=CN114018172A),” CN114018172A
 
- 阿里纳玛提, 赵东杰, 葛树志, 黄致远, 法里纳兹·戈拉米.	一种电梯导轨质量检测装置和方法.申请公布号：CN111170121A.
+阿里纳玛提, 赵东杰, 孙常亮, 法里纳兹·戈拉米, **黄致远**, 宫兆隆. 一种单电梯导轨扭曲变形的检测装置和方法. 申请公布号：CN114018172A.
 
-[3] A. Nemati, D. Zhao, C. Sun, F. Gholami, Z. Huang, and Z. Gong, “A device and method for detecting the distortion of single elevator guide rail,” CN114018172A
+### * Project 3
+We design a SLAM robot for efficient indoor mapping by rotation of its Lidar sensor.
 
- 阿里纳玛提, 赵东杰, 孙常亮, 法里纳兹·戈拉米, 黄致远, 宫兆隆. 一种单电梯导轨扭曲变形的检测装置和方法. 申请公布号：CN114018172A.
+For details:
+
+[1] A. Nemati, D. Zhao, S. S. Ge, **Z. Huang**, and F. Gholami, “[A SLAM robot with rotating Lidar for indoor mapping and localization](https://patents.google.com/patent/CN111251271B/zh?oq=CN111251271B),” China Patent, CN111251271B.
+
+阿里纳玛提, 赵东杰, 葛树志, **黄致远**, 法里纳兹·戈拉米.	一种旋转激光雷达及室内地图构建和定位的SLAM机器人.申请公布号：CN111251271B.
 
 ### Acknowledgement
 I would like to express my sincere gratitude to the supervisors and collaborators during my time at the IFF. In particular, I would like to extend my special thanks to Dr. [Alireza Nemati](https://www.linkedin.com/in/alireza-nemati-8116b390/), Prof. [Yinhua Liu](https://ieeexplore.ieee.org/author/37088988810), Prof. [Dongjie zhao](https://iff.qdu.edu.cn/info/1046/1082.htm), and Prof. [Wanyue Jiang](https://iff.qdu.edu.cn/info/1046/1081.htm). 
