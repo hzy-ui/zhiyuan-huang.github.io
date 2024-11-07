@@ -15,8 +15,8 @@ For more details, please refer to the published paper by clicking this [link](ht
 This research topic centers around the development of a CBF online parameter tuning method. 
 The primary objective of this work is to construct an online control barrier function that improves system performance in the presence of unknown environments, system inaccuracies, or delays, with the aim of achieving STL tasks. 
 Additionally, the concept behind this research has enhanced the performance of the system described in the first topic.
-To validate the effectiveness of our proposed CBF parameter update algorithm, we have successfully implemented it in ROS/Gazebo within the PX4 firmware. Furthermore, we have implemented this algorithm on UAVs in our laboratory, enabling real-world experimentation and evaluation
-
+To validate the effectiveness of our proposed CBF parameter update algorithm, we have successfully implemented it in ROS/Gazebo within the PX4 firmware. Please click this [link](https://github.com/hzy-ui/ROS_APF_CBF) for the details of the semi-physical simulation.
+Furthermore, we have implemented this algorithm on UAVs in our laboratory, enabling real-world experimentation and evaluation
 Please click this [link](https://github.com/hzy-ui/APF_CBF_EXPERIMENT) for the details of physical experiments and videos of this work.
 
 
