@@ -59,8 +59,9 @@ For details:
 Based on the STC89S52 microcontroller, we design a dormitory smart anti-theft and fire alarm system by integrating microcontroller and sensor technologies.
 The system achieves alarm functionality by detecting indoor smoke levels and human presence signals, continuously recording entries and exits, and providing a door lock reminder when no one is inside. 
 The system is composed of the microcontroller core, smoke detection module, human presence detection module, LCD display module, alarm indicator module, and counter module. Through microcontroller control, each module is effectively integrated to achieve the intended functionality. 
-I am the leader of the desinger team and in responsible for hardware system debugging and software coding.
+I am the leader of the desinger team and in responsible for hardware system debugging and software C coding.
 
+<img src="../images/Research Experience/microcontroller.jpg" alt="This is an alt text." style="width:500px;height:300px;">
 
 ### Acknowledgement
 I would like to express my sincere gratitude to the supervisors and collaborators during my time at the IFF. In particular, I would like to extend my special thanks to Dr. [Alireza Nemati](https://www.linkedin.com/in/alireza-nemati-8116b390/), Prof. [Yinhua Liu](https://ieeexplore.ieee.org/author/37088988810), Prof. [Dongjie zhao](https://iff.qdu.edu.cn/info/1046/1082.htm), and Prof. [Wanyue Jiang](https://iff.qdu.edu.cn/info/1046/1081.htm). 
