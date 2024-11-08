@@ -27,6 +27,11 @@ To validate the effectiveness of our proposed CBF parameter update algorithm, we
 Furthermore, we have implemented this algorithm on UAVs in our laboratory, enabling real-world experimentation and evaluation
 Please click this [link](https://github.com/hzy-ui/APF_CBF_EXPERIMENT) for the details of physical experiments and videos of this work.
 
+### * Project 1 (Motion planning of UAV in GPS-denying environment)
+<video controls>
+  <source src="../images/Research Experience/competition.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
 ## At Qingdao University (From 2018 to 2021)
 During my undergraduate studies, I had the privilege of working and collaborating with researchers at the [Institute for Future (IFF)](https://iff.qdu.edu.cn/index.htm#), led by Prof. [Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/). 
