@@ -26,5 +26,5 @@ I received my M.E. degree in Control Science and Engineering at [Xiamen Universi
 
 Research Interest
 ======
-Formal methods; Control theory; Machine learning.
+Formal methods; Control theory.
 
