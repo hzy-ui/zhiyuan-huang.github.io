@@ -28,7 +28,7 @@ Furthermore, we have implemented this algorithm on UAVs in our laboratory, enabl
 Please click this [link](https://github.com/hzy-ui/APF_CBF_EXPERIMENT) for the details of physical experiments and videos of this work.
 
 ### * Project 1 (Motion planning of UAV in GPS-denying environment)
-<video controls>
+<video style="width: 50%; height: auto;" controls>
   <source src="../images/Research Experience/competition.mp4" type="video/mp4">
   您的浏览器不支持视频播放。
 </video>
