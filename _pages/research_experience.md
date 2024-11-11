@@ -12,12 +12,6 @@ This research topic revolves around the development of a controller framework fo
 
 For more details, please refer to the published paper by clicking this [link](https://ieeexplore.ieee.org/abstract/document/10144389). 
 
-<!-- <details>
-  <summary><span style="font-size:18px;"><b>点击展开折叠内容</b></span></summary>
-
-  这里是可以折叠的内容，可以包含多行文字、列表、图片等。
-
-</details> -->
 
 ### * Online-tuning Control Barrier Function Approach for Signal Temporal Logic Tasks and Unknown Obstacle Avoidance
 This research topic centers around the development of a CBF online parameter tuning method. 
@@ -90,7 +84,7 @@ I am the leader of the desinger team and in responsible for hardware system debu
 
 For details:
 
-<!-- [Download file](https://hzy-ui.github.io/zhiyuan-huang.github.io/files/stc89s52.pdf) -->
+
 [Download file](https://hzy-ui.github.io/zhiyuan-huang.github.io/files/paper1.pdf)
 
 
