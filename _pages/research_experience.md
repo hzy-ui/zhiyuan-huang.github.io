@@ -4,8 +4,8 @@ title: "Research Experience"
 permalink: /Research_Experience/
 author_profile: true
 ---
-
-<!-- ## At Xiamen University (From 2021 to Now)
+<!-- 
+## At Xiamen University (From 2021 to Now)
 
 ### * A Formal Control Framework of Autonomous Vehicle for Signal Temporal Logic Tasks and Obstacle Avoidance
 This research topic revolves around the development of a controller framework for signal temporal logic (STL) tasks incorporating obstacle avoidance. In this study, we successfully formulated and addressed a motion planning problem that encompasses both STL goal-reaching and obstacle avoidance objectives. We achieved this by integrating control barrier function (CBF) and artificial potential field methods. 
@@ -97,5 +97,5 @@ For details:
 ### Acknowledgement
 I would like to express my sincere gratitude to the supervisors and collaborators during my time at the IFF. In particular, I would like to extend my special thanks to Dr. [Alireza Nemati](https://www.linkedin.com/in/alireza-nemati-8116b390/), Prof. [Yinhua Liu](https://ieeexplore.ieee.org/author/37088988810), Prof. [Dongjie zhao](https://iff.qdu.edu.cn/info/1046/1082.htm), and Prof. [Wanyue Jiang](https://iff.qdu.edu.cn/info/1046/1081.htm). 
 
-I would also like to extend my heartfelt appreciation to the professors from the School of Automation at QDU, particularly Prof. [Jihui Zhang](https://ieeexplore.ieee.org/author/37281465500), Prof. [Lin Zhao](https://ieeexplore.ieee.org/author/37089267176), Prof. [Zhijian Ji](https://www.researchgate.net/profile/Zhijian-Ji), and Prof. [Zhongsheng Hou](https://en-assc.qdu.edu.cn/info/1022/1007.htm). Their unwavering support and guidance have been invaluable to me throughout my academic journey, starting from my bachelor's degree and continuing to the present day. -->
-
+I would also like to extend my heartfelt appreciation to the professors from the School of Automation at QDU, particularly Prof. [Jihui Zhang](https://ieeexplore.ieee.org/author/37281465500), Prof. [Lin Zhao](https://ieeexplore.ieee.org/author/37089267176), Prof. [Zhijian Ji](https://www.researchgate.net/profile/Zhijian-Ji), and Prof. [Zhongsheng Hou](https://en-assc.qdu.edu.cn/info/1022/1007.htm). Their unwavering support and guidance have been invaluable to me throughout my academic journey, starting from my bachelor's degree and continuing to the present day. 
+ -->
