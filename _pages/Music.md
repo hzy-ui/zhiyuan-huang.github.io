@@ -1,17 +1,13 @@
 ---
 permalink: /Music/
 title: "My music journey"
-modified: 2023-11-09
+modified: 2025-7-17
 ---
 
 
-I love listening and playing music. 
+I have a deep love for music—both listening to it and playing it. I began learning electronic piano at the age of four, which laid the foundation for my musical journey. At seventeen, when I started my undergraduate studies, I picked up the acoustic guitar. Later, during my master’s program at twenty-one, I began playing the electric guitar. Most recently, after completing my master’s degree at twenty-five, I started learning the drums.
 
-I started learning electronic piano at the age of 4. 
-
-And I picked up the acoustic guitar when I started my bachelor study (at 17).
-
-I started playing electric guitar when I started my master's degree (at 21).
+This is my [Bilibili profile](https://space.bilibili.com/323265389?spm_id_from=333.1007.0.0), where I share videos of my own performances and live shows I’ve attended.
 
 ## Music
 I love listening to different genres of music, including Blues, Jazz, R&B, Soul, Pop music, country music, etc. 
